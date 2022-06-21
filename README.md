@@ -87,5 +87,5 @@
 
 ---
 [info@legaltrack.ru](mailto:info@legaltrack.ru) <br>
-[telegram@legaltrack]([mailto:info@legaltrack.ru](https://t.me/legaltrack))
+[telegram@legaltrack](https://t.me/legaltrack)
 
