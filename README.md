@@ -85,5 +85,7 @@
 | — Отслеживание баланса                                                                      | — Массовые проверки в автоматическом режиме                                                          | — Вариативность дальнейшего анализа данных                           |
 
 
+---
 [info@legaltrack.ru](mailto:info@legaltrack.ru)
-https://t.me/legaltrack
+[telegram@legaltrack]([mailto:info@legaltrack.ru](https://t.me/legaltrack))
+
